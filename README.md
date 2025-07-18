@@ -1,6 +1,5 @@
 
-# LiDAR Height Filter ROS2 Project  
-<span style="color:red">PLEASE ENSURE THE LIDAR FILE IS ADDED TO THE DIRECTORY</span>
+# LiDAR Height Filter ROS2 Project (Please ensure the lidar file is added to the directory !!!)
 
 
 ## Author: Ali Mohamed  
