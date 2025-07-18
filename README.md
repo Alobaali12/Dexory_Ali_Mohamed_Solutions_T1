@@ -99,7 +99,7 @@ To visualize raw and filtered point clouds:
 
 ---
 
-## Output Filtered Data to a Bag File (Optional)
+## Saving the filtered LIDAR data to a bag file
 
 To record the filtered output to a new bag file:
 
