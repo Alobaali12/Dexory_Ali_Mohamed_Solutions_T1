@@ -1,5 +1,5 @@
 
-# LiDAR Height Filter ROS2 Project
+# LiDAR Height Filter ROS2 Project (PLEASE ENSURE THE LIDAR FILE IS ADDED TO THE DIRECTORY)
 
 ## Author: Ali Mohamed  
 ## Date: 17/07/2025  
