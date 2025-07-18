@@ -36,7 +36,7 @@ The project also supports playback of recorded ROS2 bag files containing LiDAR d
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Alobaali12/Dexory_Ali_Mohamed_Solutions
+git clone [https://github.com/Alobaali12/Dexory_Ali_Mohamed_Solutions](https://github.com/Alobaali12/Dexory_Ali_Mohamed_Solutions_T1)
 cd ros2_ws
 ```
 
