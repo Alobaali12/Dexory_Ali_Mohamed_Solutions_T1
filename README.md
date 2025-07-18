@@ -43,7 +43,7 @@ cd ros2_ws
 ### 2. Build the Docker Image
 
 ```bash
-docker build -t lidar_filter:iron .
+docker build -t lidar_filter:iron ./docker
 ```
 
 ### 3. Build the ROS2 Workspace inside Docker
