@@ -131,5 +131,3 @@ This will save filtered point clouds in the `filtered_output` directory as a `.m
 For questions or issues, please open an issue in this repository or contact me via alimodather2@gmail.com.
 
 ---
-
-**End of README**
