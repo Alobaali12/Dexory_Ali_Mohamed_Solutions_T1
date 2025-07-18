@@ -51,6 +51,10 @@ docker build -t lidar_filter:iron ./docker
 ```bash
 docker run -it --rm -v ${PWD}:/ros2_ws -w /ros2_ws lidar_filter:iron bash
 ```
+```bash
+colcon build
+```
+
 
 ---
 
