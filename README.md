@@ -49,7 +49,7 @@ docker build -t lidar_filter:iron ./docker
 ### 3. Build the ROS2 Workspace inside Docker
 
 ```bash
-docker run -it --rm -v ${PWD}:/ros2_ws -w /ros2_ws lidar_filter:iron bash -c "colcon build"
+docker run -it --rm -v ${PWD}:/ros2_ws -w /ros2_ws lidar_filter:iron bash
 ```
 
 ---
